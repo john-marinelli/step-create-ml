@@ -1,0 +1,15 @@
+Decided to use librosa to:
+
+- perform short time fourier transform 
+- possibly use chromagram 
+- possibly use rhythm feature extraction
+
+Upcoming tests:
+
+- Use both stft and chroma/rhythm to classify slices
+- Use K means or other unsupervised clustering to analyze data
+
+Biggest upcoming challenges:
+
+- matching targets with stft time slices
+- 
